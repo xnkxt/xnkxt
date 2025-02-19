@@ -3,7 +3,7 @@
 </p>
 
 <p align="center">
-  I'm Ankit, student with passion for core CS. I'm mainly interested in web dev and distributed systems.
+  I'm Ankit, student with passion for Computer Science. I'm mainly interested in web dev and distributed systems.
 </p>
 
 <p align="center">
