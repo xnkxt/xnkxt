@@ -2,7 +2,7 @@
 <p align="center">
   I'm Ankit, student with passion for core cs. I'm mainly interested in web dev and distributed systems
 </p>
-![Sphere](https://github.com/user-attachments/assets/944e99ca-6345-4516-bde3-594bc63e4393)
+![](https://github.com/xnkxt/images/sphere.gif)
 
 <p align="center">
   <a href="https://skillicons.dev">
