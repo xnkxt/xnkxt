@@ -1,7 +1,3 @@
-<h1 align="center">
-  hello there 👋
-</h1>
-
 <p align="center">
   <img src="https://raw.githubusercontent.com/xnkxt/xnkxt/main/images/Sphere.gif" alt="Sphere Animation" />
 </p>
