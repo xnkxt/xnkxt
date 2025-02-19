@@ -1,16 +1,11 @@
-## Hi there 👋
+<h1 align="center">hello there :wave:</h1>
+<p align="center">
+  I'm Ankit, student with passion for core cs. I'm mainly interested in web dev and distributed systems
+</p>
+![Sphere](https://github.com/user-attachments/assets/944e99ca-6345-4516-bde3-594bc63e4393)
 
-<!--
-**xnkxt/xnkxt** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+<p align="center">
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=c,cpp,js,godot&theme=dark" />
+  </a>
+</p>
