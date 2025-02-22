@@ -12,11 +12,6 @@
   </a>
 </p>
 
-
-<p align="center">
-  <img src="https://leetcard.jacoblin.cool/xnkxt?theme=dark&font=Sora&ext=activity" alt="LeetCode Stats" />
-</p>
-
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=xnkxt&theme=monokai&show_icons=true&hide_border=true&layout=compact" alt="Top Languages" />
 </p>
